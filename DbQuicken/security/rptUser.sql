@@ -1,0 +1,5 @@
+﻿CREATE ROLE [rptUser]
+GO
+
+GRANT EXECUTE ON SCHEMA :: rpt TO rptUser
+GO

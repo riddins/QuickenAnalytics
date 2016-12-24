@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26323.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Quicken", "Quicken\Quicken.pyproj", "{640ADC3E-E366-4ADE-BAA0-24363E32A8F8}"
+EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "DbQuicken", "DbQuicken\DbQuicken.sqlproj", "{98B3937F-B0D1-4001-BBAA-8920BEA4F6F4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{640ADC3E-E366-4ADE-BAA0-24363E32A8F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{640ADC3E-E366-4ADE-BAA0-24363E32A8F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98B3937F-B0D1-4001-BBAA-8920BEA4F6F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98B3937F-B0D1-4001-BBAA-8920BEA4F6F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98B3937F-B0D1-4001-BBAA-8920BEA4F6F4}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{98B3937F-B0D1-4001-BBAA-8920BEA4F6F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98B3937F-B0D1-4001-BBAA-8920BEA4F6F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98B3937F-B0D1-4001-BBAA-8920BEA4F6F4}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

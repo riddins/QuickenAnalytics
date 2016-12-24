@@ -1,0 +1,5 @@
+﻿CREATE ROLE [appUser]
+GO
+
+GRANT EXECUTE ON SCHEMA :: app TO appUser
+GO
